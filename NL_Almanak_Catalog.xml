@@ -10,6 +10,14 @@
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
-
+<chart>
+  <number>2</number>
+  <title>OpenCPN almanak van RWS data Bruggen</title>
+  <format>Gpx waypoint file</format>
+  <zipfile_location>https://raw.githubusercontent.com/RooieDirk/RWS_Almanak/master/RWS_BruggenSluizen.gpx</zipfile_location>
+  <zipfile_datetime>20180322_000000</zipfile_datetime>
+  <zipfile_datetime_iso8601>2018-01-05T00:00:00Z</zipfile_datetime_iso8601>
+  <target_filename>RWS_BruggenSluizen.gpx</target_filename>
+</chart>
 </RncProductCatalogChartCatalogs>
 
