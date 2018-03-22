@@ -10,7 +10,7 @@
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
-<chart>
+<!--<chart>
   <number>2</number>
   <title>OpenCPN almanak van RWS data Bruggen</title>
   <format>Gpx waypoint file</format>
@@ -18,6 +18,42 @@
   <zipfile_datetime>20180322_000000</zipfile_datetime>
   <zipfile_datetime_iso8601>2018-01-05T00:00:00Z</zipfile_datetime_iso8601>
   <target_filename>RWS_BruggenSluizen.gpx</target_filename>
+</chart>-->
+<chart>
+<number>2</number>
+  <title>OpenCPN almanak van RWS data Bruggen</title>
+  <format>Gpx waypoint file</format>
+  <zipfile_location>Almanak_OpenCPN.zip</zipfile_location>
+  <zipfile_datetime>20180322_000000</zipfile_datetime>
+  <zipfile_datetime_iso8601>2018-03-22T15:00:00Z</zipfile_datetime_iso8601>
+  <target_filename>Almanak_OpenCPN.zip</target_filename>
+</chart>
+<chart>
+<number>3</number>
+  <title>Iso lijnen van gelijke afstand LAT-NAP</title>
+  <format>Gpx waypoint file</format>
+  <zipfile_location>LAT-NAP.zip</zipfile_location>
+  <zipfile_datetime>20180322_000000</zipfile_datetime>
+  <zipfile_datetime_iso8601>2018-03-22T15:00:00Z</zipfile_datetime_iso8601>
+  <target_filename>Almanak_OpenCPN.zip</target_filename>
+</chart>
+<chart>
+<number>4</number>
+  <title>Dieptes op wantijen tov LAT</title>
+  <format>Gpx waypoint file</format>
+  <zipfile_location>Dieptes Wad tov LAT.zip</zipfile_location>
+  <zipfile_datetime>20180322_000000</zipfile_datetime>
+  <zipfile_datetime_iso8601>2018-03-22T15:00:00Z</zipfile_datetime_iso8601>
+  <target_filename>Dieptes Wad tov LAT.zip</target_filename>
+</chart>
+<chart>
+<number>5</number>
+  <title>Dieptes op wantijen tov NAT</title>
+  <format>Gpx waypoint file</format>
+  <zipfile_location>Dieptes Wad tov NAT.zip</zipfile_location>
+  <zipfile_datetime>20180322_000000</zipfile_datetime>
+  <zipfile_datetime_iso8601>2018-03-22T15:00:00Z</zipfile_datetime_iso8601>
+  <target_filename>Dieptes Wad tov NAT.zip</target_filename>
 </chart>
 </RncProductCatalogChartCatalogs>
 
