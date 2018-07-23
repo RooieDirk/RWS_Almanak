@@ -126,5 +126,6 @@
     <zipfile_datetime>01062016_000000</zipfile_datetime>
     <zipfile_datetime_iso8601>01-06-2016T00:00:00Z</zipfile_datetime_iso8601>
     <target_filename>IENC Haven Waspik.zip</target_filename>
+     <dir>{USERDATA}/ENC/NL_TEST_USERDATA</dir>
   </chart>
 </RncProductCatalogChartCatalogs>
